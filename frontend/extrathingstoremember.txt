@@ -1,0 +1,13 @@
+1. Change user roles via admin
+2. Navbar changes on tpa admin and policy holder same goes for home page too
+3. if user is logged in then only he/she is able to see either buy policy button or show policy based on its role
+3. last premium payment wali cheez with validation
+4. redux
+5. forgot password
+6. update password has a diff page
+7.update profile
+8. frontend automation testing
+9. you cannot set update premium date after today's date
+10. not admin go directly to login
+11. delete user by admin
+

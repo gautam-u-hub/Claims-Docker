@@ -1,0 +1,9 @@
+/* App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 50px; /* Adjust this value based on the height of your footer */
+}
+
+/* Add more styles as needed */

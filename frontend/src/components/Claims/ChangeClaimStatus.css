@@ -1,0 +1,24 @@
+/* styles.css */
+.readonly-input {
+  background-color: #f0f0f0;
+  color: #555;
+  border: 1px solid #ccc;
+}
+
+/* CSS for AllClaims component */
+
+.card-text.approved {
+  color: white;
+}
+
+.card-text.rejected {
+  color: white;
+}
+
+#pending {
+  color: yellow;
+}
+
+.card-text.secondary {
+  color: white;
+}
